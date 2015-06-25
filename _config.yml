@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
+title: Craig Weston - Travel Blog
+email: craig.weston1@hotmail.co..uk
 description: My simple blog.
-baseurl: ""
+baseurl: "/travel-blog"
 url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+twitter_username: craigweston_
+avatar: "https://pbs.twimg.com/profile_images/507229858171453440/OdpYI3lp.jpeg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Craig" # Set default author name
+      categories: "places"
       layout: "post"
       comments: true
   -
