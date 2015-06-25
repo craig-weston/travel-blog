@@ -1,9 +1,8 @@
 # Site settings
 title: Craig Weston - Travel Blog
 email: craig.weston1@hotmail.co..uk
-description: My simple blog.
+description: My simple blog about my travels.
 baseurl: "/travel-blog"
-url: ""
 twitter_username: craigweston_
 avatar: "https://pbs.twimg.com/profile_images/507229858171453440/OdpYI3lp.jpeg" # Set footer avatar
 paginate: 3
@@ -19,7 +18,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Craig" # Set default author name
+      author: "Craig Weston" # Set default author name
       categories: "places"
       layout: "post"
       comments: true
